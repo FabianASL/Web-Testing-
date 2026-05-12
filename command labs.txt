@@ -1,0 +1,21 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG0ck1r6VoguTbtTgyILtdNvPTX6zUlEcUXS7OwjC+Gh fabian.sepulveda1@mail.udp.cl
+
+git config --global user.name "FabianASL"
+git config --global user.email "fabian.sepulveda1@mail.udp.cl"
+
+git clone git@github.com:FabianASL/Web-Testing-.git
+https://github.com/FabianASL/Web-Testing-
+
+
+
+ssh-keygen -t ed25519 -C "fabian.sepulveda1@mail.udp.cl"
+
+cat ~/.ssh/id_ed25519.pub
+
+git add .
+git commit -m "mensaje"
+git push
+
+
+
+
